@@ -1,0 +1,10 @@
+C:\Users\Gillog\source\repos\GilSocketResultForm\GilSocketResultForm\bin\x64\Release\GilSocketResultForm.exe.config
+C:\Users\Gillog\source\repos\GilSocketResultForm\GilSocketResultForm\bin\x64\Release\GilSocketResultForm.exe
+C:\Users\Gillog\source\repos\GilSocketResultForm\GilSocketResultForm\bin\x64\Release\GilSocketResultForm.pdb
+C:\Users\Gillog\source\repos\GilSocketResultForm\GilSocketResultForm\obj\x64\Release\GilSocketResultForm.SocketResultForm.resources
+C:\Users\Gillog\source\repos\GilSocketResultForm\GilSocketResultForm\obj\x64\Release\GilSocketResultForm.Properties.Resources.resources
+C:\Users\Gillog\source\repos\GilSocketResultForm\GilSocketResultForm\obj\x64\Release\GilSocketResultForm.csproj.GenerateResource.cache
+C:\Users\Gillog\source\repos\GilSocketResultForm\GilSocketResultForm\obj\x64\Release\GilSocketResultForm.csproj.CoreCompileInputs.cache
+C:\Users\Gillog\source\repos\GilSocketResultForm\GilSocketResultForm\obj\x64\Release\GilSocketResultForm.exe
+C:\Users\Gillog\source\repos\GilSocketResultForm\GilSocketResultForm\obj\x64\Release\GilSocketResultForm.pdb
+C:\Users\Gillog\source\repos\GilSocketResultForm\GilSocketResultForm\obj\x64\Release\GilSocketResultForm.csprojAssemblyReference.cache
